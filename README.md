@@ -1,7 +1,7 @@
 # Sales Dashboard – Superstore Dataset
 
 This is an interactive business intelligence dashboard built in Tableau Public using the popular [Sample Superstore dataset](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset). The dashboard provides a high-level view of sales performance, profitability, customer segments, and product-level insights.
-<img width="2116" height="1406" alt="image" src="https://github.com/user-attachments/assets/67fcb699-07f2-4e87-b697-559420961ab3" />
+<img width="1587" height="1055" alt="image" src="https://github.com/user-attachments/assets/67fcb699-07f2-4e87-b697-559420961ab3" />
 
 
 ## Interactive Tableau Dashboard
